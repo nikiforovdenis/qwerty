@@ -6,3 +6,11 @@ https://d1b10bmlvqabco.cloudfront.net/attach/j6xws4ylopc4ah/hckv2wqo9xs1fg/j89xn
 https://d1b10bmlvqabco.cloudfront.net/attach/j6xws4ylopc4ah/i4rl1sli4a55en/j7nqlkyliihp/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_7PIHLCH.pdf
 https://d1b10bmlvqabco.cloudfront.net/attach/j6xws4ylopc4ah/i4rl1sli4a55en/j7ekl5kt4m0z/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_6_OLG.pdf
 https://d1b10bmlvqabco.cloudfront.net/attach/j6xws4ylopc4ah/i4rl1sli4a55en/j7adyaj3qtcl/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_5_Ramsey_Model.pdf
+Blockchain:
+
+
+https://hbr.org/2017/03/the-potential-for-blockchain-to-transform-electronic-health-records
+
+https://www.technologyreview.com/s/608821/who-will-build-the-health-care-blockchain/
+
+https://www.healthit.gov/sites/default/files/5-56-onc_blockchainchallenge_mitwhitepaper.pdf
